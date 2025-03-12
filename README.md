@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Om Dongaonkar
-- 👀 I’m interested in Building new things where I can use my skills.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Dev based projects.
-- 📫 Connent with me on LinkedIn or officialom2006@gmail.com
-- 😄 Pronouns: He/Him
+Hi, I’m Om Dongaonkar
+AI/ML student and web developer with a passion for turning complex problems into elegant solutions. Merging machine learning expertise with web development skills to build smarter applications.
+Seeking opportunities to grow while making an impact in the AI/ML & Web Development space.
   
