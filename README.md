@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Om 👋<br><br>- Working on **Throughline** as part of my *12 Projects in 12 Months* series  <br>- Open to helping with:<br>  - Early-stage startups  <br>  - Backend & API design  <br>  - AI integrations  <br>  - Mentoring beginners  <br>- Currently learning **Agentic AI** and using AI to build cool things on the web  <br>- Goal (next 1–2 years): Join a strong product-driven team  <br>- Fun fact: I care more about **systems** than **stacks**<br>
+ Hi, I’m Om 👋<br><br>- Open to helping with:<br>  - Early-stage startups  <br>  - Backend & API design  <br>  - AI integrations  <br>  - Mentoring beginners  <br>- Currently learning **Agentic AI** and using AI to build cool things on the web  <br>- Goal (next 1–2 years): Join a strong product-driven team  <br>- Fun fact: I care more about **systems** than **stacks**<br>
 
 
 ## 🌐 Socials:
