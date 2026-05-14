@@ -1,5 +1,11 @@
-# 💫 About Me:
- Hi, I’m Om 👋<br><br>- Open to helping with:<br>  - Early-stage startups  <br>  - Backend & API design  <br>  - AI integrations  <br>  - Mentoring beginners  <br>- Currently learning **Agentic AI** and using AI to build cool things on the web  <br>- Goal (next 1–2 years): Join a strong product-driven team  <br>- Fun fact: I care more about **systems** than **stacks**<br>
+# About Me:
+Hi, I'm Om <br><br>
+- Currently building **Micrologs** (self-hosted analytics — 2.5M pageviews/day on a single node) and **Throughline** (AI content engine with multi-provider LLM fallback)<br>
+- Currently learning **Agentic AI** and **ML for time-series data** (XGBoost, LightGBM, Prophet)<br>
+- Full Stack Developer at **Versatile Technology** — optimized app performance by 25–30%, led technical training for 5+ interns<br>
+- Open to: Early-stage startups · Backend & API design · AI integrations · Mentoring beginners<br>
+- Goal (next 1–2 years): Join a strong product-driven remote team<br>
+- Fun fact: I care more about **systems** than **stacks**<br>
 
 
 ## 🌐 Socials:
